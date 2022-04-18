@@ -1,4 +1,4 @@
-# OverlapedSegmentClock
+# OverlappingSegmentClock
 ## An digital clock controlled from internet-time via ESP8266 
 https://github.com/xSnowHeadx/OverlappingSegmentClock
 

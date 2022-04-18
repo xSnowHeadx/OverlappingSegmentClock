@@ -1,6 +1,6 @@
 # OverlapedSegmentClock
 ## An digital clock controlled from internet-time via ESP8266 
-https://github.com/xSnowHeadx/MinimalClock
+https://github.com/xSnowHeadx/OverlappingSegmentClock
 
 README file  
 SnowHead Apr 2022  

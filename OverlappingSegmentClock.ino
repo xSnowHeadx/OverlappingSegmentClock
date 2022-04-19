@@ -7,8 +7,6 @@
 #include "digit.h"
 #include "WTAClient.h"
 
-// switch between 24H (12 rotors) / 12H (10 rotors)
-#define HOUR12 false
 
 //=== CLOCK ===
 WTAClient wtaClient;

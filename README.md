@@ -27,5 +27,7 @@ The original is controlled by an ESP32. The firmware here was adapted to an ESP8
 <td>PRE_MOVE</td><td>true to start cylinder movement earlier to reach the target position just in time</td>
 </tr><tr> 
 <td>DEBUG</td><td>true for additional debug messages on serial console</td>
+</tr><tr> 
+<td>HOUR12</td><td>true 12h display format instead of 24h format</td>
 </tr> 
 </body></table>
